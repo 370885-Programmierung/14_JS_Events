@@ -3,6 +3,10 @@
 
 button {
     display: block;
+    border-width: 5px;
+    border-style: outset;
+    border-color: red;
+    border-image: initial;
     width: 200px;
     height: 50px;
     margin-top: 20px;
